@@ -1,0 +1,14 @@
+.first {
+  background-color: #004080;
+  
+}
+
+.icon {
+  margin: 5px;
+}
+.icon-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}

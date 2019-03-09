@@ -1,0 +1,85 @@
+{
+  "title": "Hello I'm Rohaam!",
+  "subtitle": "Android Developer | Open-Source enthusiast",
+  "links": {
+    "github": "https://github.com/ROHAAM06",
+    "linkedin": "https://www.linkedin.com/in/rohaam-ashrafi",
+    "instagram": "https://www.instagram.com/artphoto_insta/"
+  },
+  "sections": [
+    {
+      "title": "About",
+      "items": [
+        {
+          "type": "p",
+          "content": "I love programming And especially to mobile programming"
+        },
+        {
+          "type": "p",
+          "content": "I am also a painter and sculptor and a professional Travian gamer :D "
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "items": [
+        {
+          "type": "card",
+          "content": {
+            "image": "images/android.png",
+            "title": "Android"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/java.png",
+            "title": "Java"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/xml.png",
+            "title": "Xml"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/laravel.png",
+            "title": "Laravel"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/html.png",
+            "title": "Html"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/css.png",
+            "title": "Css"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/react.png",
+            "title": "React"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/javascript.png",
+            "title": "JavaScript"
+          }
+        }
+      ]
+    }
+  ]
+}

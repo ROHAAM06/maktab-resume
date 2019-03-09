@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Maktab_Resume/precache-manifest.1ffd52ca9a5cfd103af0df5f6162c5e2.js"
+  "/maktabkhoone-resume/precache-manifest.c92f0c6f9e86c4b53f9a840fe5c7296d.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Maktab_Resume/index.html", {
+workbox.routing.registerNavigationRoute("/maktabkhoone-resume/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
